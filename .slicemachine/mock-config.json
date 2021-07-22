@@ -1,0 +1,11 @@
+{
+  "slices": {
+    "NewSlice": {},
+    "GalleryImage": {},
+    "TextSlice": {}
+  },
+  "_cts": {
+    "page": {},
+    "home-page": {}
+  }
+}
